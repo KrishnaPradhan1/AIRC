@@ -4,11 +4,17 @@ A powerful AI-powered platform that helps recruiters automate resume screening a
 
 ## 🚀 Features
 
+![Landing Page](screenshots/landing_page.png)
+
 ### For Recruiters
+![Recruiter Dashboard](screenshots/recruiter_dashboard.png)
 - **Smart Job Posting:** Create and manage job listings with detailed requirements.
 - **AI Resume Screening:** Automatically analyze incoming applications against job descriptions.
 - **Candidate Ranking:** Get match scores and detailed analysis for every applicant.
 - **Efficiency:** Drastically reduce time-to-hire by focusing on the best candidates.
+
+![AI Analysis](screenshots/ai_analysis.png)
+![Application List](screenshots/application_list.png)
 
 ### For Students
 - **Smart Job Search:** Browse and search for relevant opportunities.
