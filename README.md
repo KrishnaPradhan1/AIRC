@@ -1,5 +1,7 @@
 # AIRC - AI Resume Classifier & Analyzer
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/KrishnaPradhan1/AIRC)
+
 A powerful AI-powered platform that helps recruiters automate resume screening and analysis, while empowering students with AI-driven insights to improve their job applications.
 
 ## 🚀 Features
