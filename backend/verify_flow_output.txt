@@ -1,0 +1,8 @@
+Recruiter logged in.
+Job created: 2
+Student logged in.
+Applied successfully.
+Found 1 applications.
+App ID: 2, Score: 70.0
+Summary: Sameer Kumar Sahu is a Python Developer and Data Scientist with approximately four years of experience as a Software Engineer, specializing in building AI models. Their technical proficiencies include Python, SQL, React, Flask, and Machine Learning.
+VERIFICATION SUCCESS: Analysis data present.
